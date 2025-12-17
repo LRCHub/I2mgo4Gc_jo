@@ -1,0 +1,53 @@
+# るり・明咲 from STARRY PLANET☆ – Inner Voice
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+始まり告げる夜明けのコバルトブルー 天(そら)仰ぎ
+母なる大地踏みしめ Feelin' イノチの波動感じて
+太陽と風のRhythm 魂のBeat 同期したら
+未知なる今日に飛び立つ 翼の歌が響くだろう
+Maybe, Maybe 誰かの声じゃなく
+内なる自分の声にただ
+ココロを澄ませて生きたいと わたしは願う
+Can you feel your Inner Voice?
+情熱(おもい)に素直に Dancin' now＆Singin' now 踊
+ろう
+誰もがそれぞれ運命のプリンシパル
+光る旋律 まとって
+I can feel my Inner Voice!
+花は咲き乱れ 注ぐ新たなしずくは
+軽やかに跳ねて 未だ見たことのない
+大いなる海へと繋がる
+キコエル キコエルヨ キボウ ジユウ ミライ
+どんなときでも I just believe…
+孤独も その先の輝きも全部
+きっともう知ってるわ I'll catch the dream
+不意に走った稲妻 カラダ中を駆けめぐる
+価値観さえも貫くFlash light 競演してるHarmony
+勇敢に生きる者にだけ
+女神は微笑み 導くの
+眩い戦闘服(ドレス)を身に着けて わたしは歌う
+Can you feel your Inner Voice?
+Let's go to the shining place! Step＆Skipで踊る
+わ
+灼熱の砂漠 揺らめく蜃気楼
+胸にオアシス 描いて
+I can feel my Inner Voice!
+星さえ凍てつく 雪と氷のステージで
+オーロラの階段 登りつめる日を
+凛と夢見てゆくだけ
+Can you feel your Inner Voice?
+情熱(おもい)に素直に Dancin' now＆Singin' now 踊
+ろう
+誰もがそれぞれ運命のプリンシパル
+光る旋律 まとって
+I can feel my Inner Voice!
+花は咲き乱れ 注ぐ新たなしずくは
+軽やかに跳ねて 未だ見たことのない
+大いなる海へと繋がる
+キコエル キコエルヨ キボウ ジユウ ミライ
+どんなときでも I just believe…
+孤独と その先の輝きの果ての
+奇跡に抱(いだ)かれ I'll catch the dream
+```
