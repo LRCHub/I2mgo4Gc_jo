@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Inner Voice",
+  "base_artist": "るり・明咲 from STARRY PLANET☆",
+  "createdAt": "2025-12-17T19:53:12.641378Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Inner Voice (feat. Trevor Something)",
+      "artist": "DJ Ten feat. Trevor Something",
+      "has_synced": true,
+      "path": "select/01_The_Inner_Voice_(feat._Trevor_Something)_DJ_Ten_feat._Trevor_Something.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Inner Voice (feat. Trevor Something)",
+      "artist": "DJ Ten",
+      "has_synced": true,
+      "path": "select/02_The_Inner_Voice_(feat._Trevor_Something)_DJ_Ten.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Inner Voice",
+      "artist": "Adam Sandler",
+      "has_synced": false,
+      "path": "select/03_Inner_Voice_Adam_Sandler.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Inner Voice",
+      "artist": "Grave",
+      "has_synced": false,
+      "path": "select/04_Inner_Voice_Grave.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Inner Voice",
+      "artist": "Thurisaz",
+      "has_synced": true,
+      "path": "select/05_Inner_Voice_Thurisaz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Inner Voice",
+      "artist": "Sampa the Great feat. Mwanje Tembo",
+      "has_synced": true,
+      "path": "select/06_Inner_Voice_Sampa_the_Great_feat._Mwanje_Tembo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Inner Voice (feat. Mwanje Tembo)",
+      "artist": "Sampa the Great",
+      "has_synced": true,
+      "path": "select/07_Inner_Voice_(feat._Mwanje_Tembo)_Sampa_the_Great.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Inner Voice",
+      "artist": "Darkestrah",
+      "has_synced": true,
+      "path": "select/08_Inner_Voice_Darkestrah.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Inner Voice",
+      "artist": "Sampa the Great, Mwanje Tembo",
+      "has_synced": false,
+      "path": "select/09_Inner_Voice_Sampa_the_Great,_Mwanje_Tembo.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Inner Voice",
+      "artist": "Sampa the Great",
+      "has_synced": true,
+      "path": "select/10_Inner_Voice_Sampa_the_Great.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Inner Voice",
+      "artist": "Jah9",
+      "has_synced": true,
+      "path": "select/11_Inner_Voice_Jah9.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Inner Voice",
+      "artist": "Silent Circus",
+      "has_synced": false,
+      "path": "select/12_Inner_Voice_Silent_Circus.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Inner Voice",
+      "artist": "Adam Sandler",
+      "has_synced": false,
+      "path": "select/13_Inner_Voice_Adam_Sandler.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Inner Voice",
+      "artist": "Sudden Death",
+      "has_synced": false,
+      "path": "select/14_Inner_Voice_Sudden_Death.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Stockholm (Inner Voice Remix)",
+      "artist": "The New Division",
+      "has_synced": false,
+      "path": "select/15_Stockholm_(Inner_Voice_Remix)_The_New_Division.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Inner Voice",
+      "artist": "Shayan Shitreh",
+      "has_synced": true,
+      "path": "select/16_Inner_Voice_Shayan_Shitreh.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Dreamer (Inner Voice mix)",
+      "artist": "Zhi‐Vago",
+      "has_synced": false,
+      "path": "select/17_Dreamer_(Inner_Voice_mix)_Zhi‐Vago.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Inner Voice",
+      "artist": "Bonjah",
+      "has_synced": false,
+      "path": "select/18_Inner_Voice_Bonjah.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Inner Voice",
+      "artist": "るり・明咲 from STARRY PLANET☆",
+      "has_synced": false,
+      "path": "select/pl_01_Inner_Voice_るり・明咲_from_STARRY_PLANET☆.txt"
+    }
+  ]
+}
